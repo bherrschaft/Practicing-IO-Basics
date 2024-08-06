@@ -1,0 +1,5 @@
+Hello, world!
+This is a test file.
+Java I/O is interesting.
+Let's read and write files.
+End of the file.
